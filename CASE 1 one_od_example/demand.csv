@@ -1,0 +1,2 @@
+demand_id,from_zone_id,to_zone_id,travel_time_auto,travel_time_transit,travel_cost_auto,travel_cost_transit,trips,agency_name
+1,0,1,0.25,0.5,4,2,1200,1
