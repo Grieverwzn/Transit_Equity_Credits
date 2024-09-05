@@ -1,0 +1,17 @@
+route_id,direction_id,direction
+19552,1,Inbound
+19552,0,Outbound
+19506,0,Westbound
+19506,0,Eastbound
+1351,0,Loop
+1350,0,Loop
+1349,0,Loop
+1348,0,Loop
+1347,0,Loop
+1346,0,Loop
+1345,0,Loop
+1344,0,Loop
+1343,0,Loop
+1342,0,Loop
+1341,0,Loop
+1340,0,Loop
